@@ -27,7 +27,7 @@ Hello, 我来自**中国上海**，一名从**开发**转行的**安全研究者
 
 - 👨‍💼 现就职于 **平安银河安全实验室**
 - 🖐️ **Timeline Sec** 团队成员
-- 🤔 我的博客: [https://www.cnblogs.com/tdragon6/](https://www.cnblogs.com/tdragon6)
+- 🤔 我的博客: [https://www.cnblogs.com/tdragon6](https://www.cnblogs.com/tdragon6)
 - 🥰 热爱旅游、摄影和极限运动～
 
 <br>
