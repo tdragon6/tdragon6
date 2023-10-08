@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/tdragon6">
   <picture>
-    <img align="right" width="480px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=tdragon6&show_icons=true&theme=dracula&count_private=true&hide=prs&include_all_commits=true">
+    <img align="right" width="480px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=tdragon6&show_icons=true&theme=dracula&count_private=true&hide=prs">
   </picture>
 </a>
 
