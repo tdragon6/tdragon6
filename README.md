@@ -23,12 +23,10 @@ Here are some ideas to get you started:
   </picture>
 </a>
 
-Hello, 我来自**中国上海**，一名从**开发**转行的**安全研究者**，现从事安全开发和安全研究相关工作，热爱编程和安全。
+Hello, 一名从**开发**转行的**安全研究人员**，现从事安全开发和安全研究相关工作，热爱编程和安全。
 
-- 👨‍💼 现就职于 **平安银河安全实验室**
 - 🖐️ **Timeline Sec** 团队成员
 - 🤔 我的博客: [https://www.cnblogs.com/tdragon6](https://www.cnblogs.com/tdragon6)
-- 🥰 热爱旅游、摄影和极限运动～
 
 <br>
 
